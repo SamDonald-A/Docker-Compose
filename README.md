@@ -33,7 +33,23 @@
 
 ![docs](https://github.com/user-attachments/assets/5dd64314-c8c3-4495-9112-e29161b5b939)
 
-![npm](https://github.com/user-attachments/assets/4e65fe8d-3938-4394-95e7-33af86d787c0)
+![npm edit](https://github.com/user-attachments/assets/81ccc4b8-4006-4ca3-a58b-48a6cf60323a)
+
+**Create the docker-compose.yml and write the build for all three services**
+
+![ymlfile](https://github.com/user-attachments/assets/1fac7543-4d98-4e4e-91b9-f4d516684730)
+
+**We see that currently no Container is running in the Docker**
+
+![docksno](https://github.com/user-attachments/assets/b0051bb8-8981-4aec-a617-2a3bd7f9b0f4)
+
+![nodockcmd](https://github.com/user-attachments/assets/8ffff8f0-5910-4799-8704-2e7a8ae084ac)
+
+
+
+
+
+
 
 
 
