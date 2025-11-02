@@ -27,6 +27,16 @@
 
 ![clone the repo](https://github.com/user-attachments/assets/2bcbb572-9fa9-4ba5-a8c0-de3a5637e8ba)
 
+![clone the repo](https://github.com/user-attachments/assets/d39bd701-b96b-4b2d-9c78-956f42e6ec2c)
+
+**Create Dockerfile in each folder and add the script in all the package.json**
+
+![docs](https://github.com/user-attachments/assets/5dd64314-c8c3-4495-9112-e29161b5b939)
+
+![npm](https://github.com/user-attachments/assets/4e65fe8d-3938-4394-95e7-33af86d787c0)
+
+
+
 
 
 
