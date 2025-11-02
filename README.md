@@ -45,19 +45,29 @@
 
 ![nodockcmd](https://github.com/user-attachments/assets/8ffff8f0-5910-4799-8704-2e7a8ae084ac)
 
+**Let's run docker-compose up --build and create the container and check from Docker app and terminal that its created or not**
 
+![ymlbuild](https://github.com/user-attachments/assets/8ea82a2f-0244-47d7-a0cc-d518d32d974c)
 
+![successyml](https://github.com/user-attachments/assets/57082b3d-5e5d-41e0-88cc-3613f09c0d67)
 
+![docksrunning](https://github.com/user-attachments/assets/f49b0e8d-2a6c-4e35-a353-08680d99a3f9)
 
+![cmdter&#39;](https://github.com/user-attachments/assets/b73cef86-e64d-4856-a3b3-9c1b22fefde5)
 
+## Step 4
+**Open the respected ports in the browser to see the data**
 
+![user3000](https://github.com/user-attachments/assets/78c37e33-41ed-4de6-93f6-dd3168341d64)
 
+![prod3001](https://github.com/user-attachments/assets/abc9ac85-35f6-4341-8c2c-55da27366381)
 
+![gatapi](https://github.com/user-attachments/assets/a223def3-d573-4267-b6f7-550b6a2caf00)
 
+## Step 5
+**Push the code to Github**
 
-
-
-
+![gitpush](https://github.com/user-attachments/assets/74db6819-470f-4229-8959-087b89485eef)
 
 
 
