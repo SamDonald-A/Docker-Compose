@@ -12,9 +12,23 @@
 ![git - image](https://github.com/user-attachments/assets/24976ae9-a20f-4c65-9bf5-c7df68d3b7e0)
 
 ## Step 2
-**Start the docker engine by opening your DOcker Desktop App**
+**Start the docker engine by opening your Docker Desktop App**
 
 ![docker start](https://github.com/user-attachments/assets/17d14446-db0a-4a88-bab6-c9cd99259dae)
+
+## Step 3
+**Create submision folder and open it in the VS Code Editor**
+
+![create folder](https://github.com/user-attachments/assets/e82c0d2d-880a-4767-9a57-99cccd64a5a9)
+
+![openin vscode](https://github.com/user-attachments/assets/3702f0ee-330b-4dc2-8376-707abf72509a)
+
+**Clone the forked repository**
+
+![clone the repo](https://github.com/user-attachments/assets/2bcbb572-9fa9-4ba5-a8c0-de3a5637e8ba)
+
+
+
 
 
 
