@@ -114,7 +114,6 @@ Now it’s able to access via IP
 
 
 ---
----
 
 Documentation by: Sam Donald A
 
